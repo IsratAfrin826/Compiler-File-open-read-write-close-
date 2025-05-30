@@ -84,7 +84,7 @@ Closing a file is performed using the **fclose()** function.
           
 Here, **fptr** is a file pointer associated with the file to be closed.
 
-Reading and writing to a text file
+### Reading and writing to a text file
 
 For reading and writing to a text file, we use the functions **fprintf() and fscanf()**.
 
